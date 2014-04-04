@@ -1,0 +1,6 @@
+name: rikuloHelloWorld
+description: A web application
+dependencies:
+  browser: any
+  rikulo_gap: any
+  rikulo_ui: any
